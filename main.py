@@ -1,3 +1,5 @@
+# Created by Sreejita R., Sana H., Janine C., and Natalie S.
+
 import discord
 from discord.ext import commands
 
